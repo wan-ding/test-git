@@ -1,0 +1,8 @@
+div {
+    display: flex;
+    margin-top: 1%;
+
+    justify-content: center;
+
+    padding: 30px;
+}
